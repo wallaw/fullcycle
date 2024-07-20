@@ -1,8 +1,13 @@
-# fullcycle
+# Fullcycle
 Curso Full Cycle
 
-Desafio 1:
+**Curso Docker**
 
--> Arquivos em desafio-go
+Desafio 1:
+-> Arquivos em docker/desafio-go
 -> Dockerhub: docker pull wallaw/fullcycle
 
+Desafio 2:
+-> Arquivos em docker/desafio-node
+-> docker-compose build
+-> docker-compose up
